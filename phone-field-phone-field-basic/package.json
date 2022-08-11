@@ -40,7 +40,10 @@
     "zone.js": "^0.11.5",
     "@skyux/phone-field": "^6.11.1",
     "@skyux/modals": "^6.11.1",
-    "@skyux/lookup": "^6.11.1"
+    "@skyux/lookup": "^6.11.1",
+    "@skyux/lists": "^6.11.1",
+    "@skyux/inline-form": "^6.11.1",
+    "@skyux/popovers": "^6.11.1"
   },
   "browserslist": [
     "last 1 Chrome version",

@@ -47,7 +47,8 @@
     "@skyux/autonumeric": "^6.11.1",
     "@skyux/datetime": "^6.11.1",
     "@skyux/popovers": "^6.11.1",
-    "@skyux/lists": "^6.11.1"
+    "@skyux/lists": "^6.11.1",
+    "@skyux/inline-form": "^6.11.1"
   },
   "browserslist": [
     "last 1 Chrome version",

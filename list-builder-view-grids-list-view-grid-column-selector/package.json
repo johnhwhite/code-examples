@@ -43,8 +43,9 @@
     "@skyux/modals": "^6.11.1",
     "@skyux/list-builder-common": "^6.11.1",
     "@skyux/lists": "^6.11.1",
-    "@skyux/lookup": "^6.11.1",
+    "@skyux/inline-form": "^6.11.1",
     "@skyux/popovers": "^6.11.1",
+    "@skyux/lookup": "^6.11.1",
     "@skyux/grids": "^6.11.1",
     "@skyux/list-builder-view-checklist": "^6.11.1"
   },
