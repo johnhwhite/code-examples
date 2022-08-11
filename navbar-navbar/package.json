@@ -40,7 +40,10 @@
     "zone.js": "^0.11.5",
     "@skyux/navbar": "^6.11.1",
     "@skyux/popovers": "^6.11.1",
-    "@skyux/modals": "^6.11.1"
+    "@skyux-sdk/testing": "^6.11.1",
+    "@skyux/modals": "^6.11.1",
+    "@blackbaud/auth-client": "^6.11.1",
+    "@angular/cdk": "^6.11.1"
   },
   "browserslist": [
     "last 1 Chrome version",

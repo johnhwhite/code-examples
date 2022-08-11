@@ -42,6 +42,9 @@
     "@skyux/split-view": "^6.11.1",
     "@skyux/action-bars": "^6.11.1",
     "@skyux/lists": "^6.11.1",
+    "@skyux-sdk/testing": "^6.11.1",
+    "@blackbaud/auth-client": "^6.11.1",
+    "@angular/cdk": "^6.11.1",
     "@skyux/popovers": "^6.11.1",
     "@skyux/inline-form": "^6.11.1"
   },
