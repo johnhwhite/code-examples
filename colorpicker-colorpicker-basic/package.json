@@ -23,6 +23,7 @@
     "@angular/platform-browser-dynamic": "^13.3.2",
     "@angular/router": "^13.3.2",
     "@blackbaud/auth-client": "^2.50.0",
+    "@skyux-sdk/testing": "^6.11.1",
     "@skyux/animations": "^6.11.1",
     "@skyux/assets": "^6.11.1",
     "@skyux/colorpicker": "^6.11.1",
