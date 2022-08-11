@@ -8,11 +8,12 @@ Projects="$(ls -d */|fgrep -v scripts/)"
 
 for Project in ${Projects}; do
   cd "${Project}"
-  npm install --ignore-scripts --prefer-offline --package-lock-only 1>/dev/null 2>/dev/null
+  rm -f package-lock.json
+  npm install --ignore-scripts --package-lock-only 1>/dev/null
   if [ $? -eq 0 ]; then
-    echo -n -e "\t\033[32m OK \033[0m"
+    echo -n -e "\033[32m【 OK 】\033[0m\t"
   else
-    echo -n -e "\t\033[31mFAIL\033[0m"
+    echo -n -e "\033[31m【FAIL】\033[0m\t"
   fi
   echo "${Project}"
   cd "${BasePath}"
